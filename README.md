@@ -15,8 +15,8 @@ Le projet est organisé selon l'arborescence suivante :
 ## Détails des dossiers et fichiers
 
 ### `data/`
-Contient les fichiers Excel correspondant :
-* Aux versions finales des tables de dimensions
+Contient les fichiers Excel correspondant aux versions finales :
+* des tables de dimensions
 * À la table de faits
 
 Ces fichiers sont le résultat de l'ETL établi dans Power BI et utilisé dans les tables de bords sur Power BI et le script .ipynb
